@@ -1,9 +1,4 @@
 🔍 Exploring Machine Learning for Diabetes Prediction 📊
-
-I recently had the opportunity to work on a fascinating project using machine learning to predict diabetes outcomes. 🤖💉
-
-I started by splitting the dataset into training and testing data, employing stratified sampling to ensure a balanced representation of outcomes. This is a crucial step to build a robust model. 
-
 Here are some highlights of the classifiers I experimented with and their test accuracies:
 
 1. 📈 Support Vector Machine (SVM) with a linear kernel: 
